@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://anociuxo.github.io/Mod/sitemap_index.txt
+Sitemap: https://anociuxo.github.io/OuK/sitemap_index.txt
+Sitemap: https://anociuxo.github.io/bGH/sitemap_index.txt
+Sitemap: https://anociuxo.github.io/vXk/sitemap_index.txt
